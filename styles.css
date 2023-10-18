@@ -1,9 +1,9 @@
 img {
-    height: auto
-    width:
+    height: auto;
+    width: fit-content
 }
 
-* { background-color:khaki;
+* { background-color:antiquewhite;
 
 }
 h1 {
